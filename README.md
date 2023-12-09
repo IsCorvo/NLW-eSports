@@ -1,1 +1,1 @@
-# NLW01-DiscoveryStarter
+# NLW#09 - eSports - Explorer
